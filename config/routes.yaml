@@ -1,0 +1,3 @@
+root.get:
+  path: /
+  controller: App\Controller\RootController::get

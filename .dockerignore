@@ -1,0 +1,8 @@
+/.git/
+/.idea/
+/public/bundles/*
+/var/*
+/vendor/*
+
+/docker-compose.yaml
+/Dockerfile
